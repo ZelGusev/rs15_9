@@ -1,0 +1,10 @@
+./rtl/src/gf2_add.v
+./rtl/src/gf2_3mult.v
+./rtl/src/rs_encode.v
+./rtl/src/rs_encodebkm.v
+./rtl/src/rs_decodebkm.sv
+./rtl/src/gf2_3_inv.v
+./rtl/src/berlekamp_poly_v2.sv
+./rtl/src/chein_search.sv
+./rtl/src/mult_poly.sv
+./rtl/src/forney.sv

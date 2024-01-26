@@ -1,0 +1,17 @@
+resolvers.yaml
+tmp
+*.shm
+xcelium.d
+default.svf
+xrun.history
+xrun.key
+.simvision
+sg/work
+sg/*.log
+tb/*.log
+tb/*.diag
+tb/*.history
+*.log
+*.diag
+*.history
+**/example

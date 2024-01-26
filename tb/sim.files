@@ -1,0 +1,14 @@
++incdir+./tb/src/parameter
++incdir+./tb/src/rs_agent
++incdir+./tb/src/env
++incdir+./tb/src/tests
+
+./tb/src/parameter/parameter_pkg.sv
+./tb/src/rs_agent/rs_pkg.sv
+./tb/src/env/tb_env_pkg.sv
+./tb/src/tests/tb_test_pkg.sv
+
+./tb/src/clk_gen/clk_gen.sv
+./tb/src/interface/rs_intf.sv
+
+./tb/src/top_tb.sv
